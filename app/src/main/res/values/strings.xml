@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic TacToe Game</string>
+    <string name="tv0">$</string>
+    <string name="tv1">$</string>
+    <string name="tv2">$</string>
+    <string name="tv3">$</string>
+    <string name="tv4">$</string>
+    <string name="tv5">$</string>
+    <string name="tv6">$</string>
+    <string name="tv7">$</string>
+    <string name="tv8">$</string>
+    <string name="welcome_to_tic_tac_toe">Welcome to TIC TAC TOE</string>
+    <string name="now_player_x_s_turn">Now Player X\'s Turn</string>
+    <string name="reset_game">Reset Game</string>
+</resources>
